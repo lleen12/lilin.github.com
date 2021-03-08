@@ -3,7 +3,10 @@
 ##姓名
 
 ###兴趣
-
+#搭建wiki
+1.pow.cx
+主题学习法来写维基
+1..购买大量读物
 
 ## Welcome to GitHub Pages
 
